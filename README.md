@@ -1,4 +1,3 @@
-# ml-project-health-insurance-premium
 # Health Insurance Premium Prediction
 
 Machine learning system for predicting health insurance premiums using age-based model segmentation.
